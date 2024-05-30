@@ -1,7 +1,7 @@
 # PROJECT : Human Detection 
-Simple mini Python project using OpenCV and twilio.
-Work : Detectes human and send alert message.
-RUN :
+Simple mini Python project using OpenCV and twilio,
+Work : Detectes human and send alert message,
+To RUN :
 1. clone the project.
 2. intall Packages : OpenCV, cvzone and twilio
 * pip install opencv-python
